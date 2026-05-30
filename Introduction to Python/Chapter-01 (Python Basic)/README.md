@@ -14,13 +14,13 @@
 - Download from: https://code.visualstudio.com/
 - After installing, open VS Code, go to Extensions (Ctrl+Shift+X), search for 'Python' by Microsoft, and click install.
 
-### Step 3: Project folder বানানো
+### Step 3: Create Project folder
 
 - Create a folder anywhere you like, for example, `my-python`.
 - Open **VS Code** and go to **File → Open Folder** to open that folder.
 - Create a **New File** and name it `hello.py`.
 
-### Step 4: Script run করা
+### Step 4: Run the Script
 
 Just Click the “Run” button on VS Code or just open the terminal in VS Code: (**Ctrl + `** )
 
