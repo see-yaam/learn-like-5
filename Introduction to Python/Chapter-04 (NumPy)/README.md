@@ -59,9 +59,7 @@ pip install numpy
 
 You always start from a regular Python list. Pass it into `np.array()` and you get a NumPy array back. Same values, different type — with superpowers.
 
-> However, NumPy is a package. To know more about packages and how to import click here.
-> 
-
+> However, NumPy is a package. To know more about packages and how to import [click here](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#10-what-are-packages)
 ```python
 import numpy as np
 
@@ -357,7 +355,7 @@ print(type(np_students))
 
 `shape` is an **attribute** of a NumPy array that tells you its dimensions: how many rows and how many columns.
 
-Note: `shape` is NOT a method. Methods have parentheses `()`. Attributes don't. Learn more from methods from here.
+Note: `shape` is NOT a method. Methods have parentheses `()`. Attributes don't. Learn more from methods from [here](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#6-what-are-methods).
 
 ```python
 import numpy as np
