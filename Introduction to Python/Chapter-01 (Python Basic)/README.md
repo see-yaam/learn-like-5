@@ -1,6 +1,6 @@
-# Chapter 1: Python Basics
-
 ---
+
+# **1. Python Basic**
 
 ## ⚙️ Setup — Python + VS Code Install & Run
 

@@ -1,5 +1,7 @@
 ---
 
+# **2. Python Lists**
+
 ## Table of Contents
 
 1. Why Lists Exist
