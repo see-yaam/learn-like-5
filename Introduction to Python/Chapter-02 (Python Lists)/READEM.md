@@ -686,3 +686,67 @@ print(len(courses))       # Output: 6
 | Copy (correct) | `y = x[:]` or `list(x)` | — | independent copy |
 
 ---
+
+---
+
+```
+A list is a train.
+Each carriage holds one value.
+The whole train has one name.
+You can board any carriage, swap its contents, add new ones, or unhook them.
+
+INDEXING — every carriage has a number:
+
+    train  =  [ "Shakib",   45,   "Tamim",   78,   "Liton",   91  ]
+    forward:      0          1       2          3      4          5
+    backward:    -6         -5      -4         -3     -2         -1
+
+    train[0]    →  "Shakib"    (first carriage, from the front)
+    train[-1]   →  91          (last carriage, from the back)
+    train[2]    →  "Tamim"     (third carriage — remember, count from 0)
+
+SLICING — grab a section of the train:
+
+    train[start : end]    →  start is included, end is NOT
+
+    train[0:4]   →  ["Shakib", 45, "Tamim", 78]   (carriages 0,1,2,3)
+    train[:4]    →  same as above (omit start = begin from 0)
+    train[4:]    →  ["Liton", 91]                  (from 4 to last)
+    train[-2:]   →  ["Liton", 91]                  (last 2 carriages)
+
+NESTED LISTS — a carriage holding a smaller train:
+
+    squad = [["Shakib", 45], ["Tamim", 78], ["Liton", 91]]
+
+    squad[1]       →  ["Tamim", 78]   (second inner train)
+    squad[1][0]    →  "Tamim"         (first item of second inner train)
+    squad[1][1]    →  78              (second item of second inner train)
+
+    Two keys: first opens the outer, second opens the inner.
+
+MANIPULATION — three operations:
+
+    Change  →  train[i] = new_value        (swap one carriage's content)
+    Add     →  train + [new, items]        (returns a NEW longer train)
+    Delete  →  del train[i]                (unhook a carriage — rest shift forward!)
+
+    After del, every carriage after the removed one
+    gets a new number. Index 3 becomes index 2. Watch out.
+
+COPYING — the most dangerous part:
+
+    ┌──────────────────────────────────────────────────────┐
+    │  y = x           WRONG — two names, one train        │
+    │                  change y → x changes too            │
+    │                                                      │
+    │  y = x[:]        RIGHT — a brand new train           │
+    │  y = list(x)     RIGHT — same result, different way  │
+    │                  change y → x stays safe             │
+    └──────────────────────────────────────────────────────┘
+
+    Python variables store addresses, not values.
+    y = x copies the address.
+    y = x[:] builds a new train at a new address.
+```
+
+---

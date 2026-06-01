@@ -576,3 +576,50 @@ print("CSE Student: " + str(is_cse_student))
 | **int()** | Converts to int | `int("21")` → `21` | Works if string is a number |
 
 ---
+
+```
+Python is a toolbox.
+The language itself is the box.
+Everything you store, calculate, or decide lives inside one of four containers:
+
+┌─────────────────────────────────────────────────────────────┐
+│                     THE FOUR DATA TYPES                     │
+├──────────┬──────────────────────────────────────────────────┤
+│  int     │  Whole numbers. No dot.                          │
+│          │  age = 21,  score = 100,  year = 2025            │
+├──────────┼──────────────────────────────────────────────────┤
+│  float   │  Numbers with a decimal point.                   │
+│          │  cgpa = 3.75,  height = 1.79,  pi = 3.14         │
+├──────────┼──────────────────────────────────────────────────┤
+│  str     │  Text. Always wrapped in quotes.                 │
+│          │  name = "Arif",  city = "Dhaka"                  │
+├──────────┼──────────────────────────────────────────────────┤
+│  bool    │  Only two values, capital letters matter.        │
+│          │  is_active = True,  is_admin = False             │
+└──────────┴──────────────────────────────────────────────────┘
+
+Variables are labels, not boxes.
+    x = 5     →   you're sticking a label "x" onto the value 5
+    x = 10    →   you moved the label to 10 — the old 5 is gone
+
+The = sign does not mean "equal".
+It means "point this name at this value."
+
+Operators behave differently depending on type:
+    3 + 4         →  7          (math addition)
+    "3" + "4"     →  "34"       (text glued together)
+    "ha" * 3      →  "hahaha"   (text repeated)
+    "3" + 4       →  TypeError  (can't mix str and int)
+
+When types clash → convert first:
+    str(100)      →  "100"
+    int("21")     →  21
+    float("3.5")  →  3.5
+
+Two ways to run Python:
+    Shell   →  type one line, see result immediately  (for experiments)
+    Script  →  write many lines, run all at once      (for real work)
+    In scripts, nothing shows unless you use print().
+```
+
+---
