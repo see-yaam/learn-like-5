@@ -1004,7 +1004,6 @@ Passing the `axis` parameter allows NumPy to utilize highly optimized C-language
 
 ---
 
-## Mental Model — The Full Picture
 
 ```
 NumPy exists because Python lists cannot do math.
