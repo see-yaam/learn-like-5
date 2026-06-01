@@ -1,4 +1,4 @@
-# ** Python Basic**
+# **Python Basic**
 
 ## ⚙️ Setup — Python + VS Code Install & Run
 
