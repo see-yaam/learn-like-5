@@ -4,22 +4,22 @@
 
 ## Table of Contents
 
-1. Why NumPy Exists — The Problem with Lists
-2. Creating a NumPy Array
-3. Element-wise Calculations
-4. NumPy Rule 1 — Single Type Only
-5. NumPy Rule 2 — Operators Behave Differently
-6. Subsetting NumPy Arrays — By Index
-7. Boolean Subsetting — Filter with a Condition
-8. 2D NumPy Arrays — From Lists of Lists
-9. The .shape Attribute
-10. Subsetting 2D Arrays
-11. Slicing 2D Arrays — Rows and Columns
-12. Element-wise Arithmetic on 2D Arrays
-13. NumPy Basic Statistics
-14. Mean vs Median — When Each Matters
-15. Practice Questions
-16. Chapter Summary Table
+1. [Why NumPy Exists — The Problem with Lists](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#1-why-numpy-exists--the-problem-with-lists)
+2. [Creating a NumPy Array](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#2-creating-a-numpy-array)
+3. [Element-wise Calculations](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#3-element-wise-calculations)
+4. [NumPy Rule 1 — Single Type Only](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#4-numpy-rule-1--single-type-only)
+5. [NumPy Rule 2 — Operators Behave Differently](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#5-numpy-rule-2--operators-behave-differently)
+6. [Subsetting NumPy Arrays — By Index](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#6-subsetting-numpy-arrays--by-index)
+7. [Boolean Subsetting — Filter with a Condition](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#7-boolean-subsetting--filter-with-a-condition)
+8. [2D NumPy Arrays — From Lists of Lists](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#8-2d-numpy-arrays--from-lists-of-lists)
+9. [The .shape Attribute](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#9-the-shape-attribute)
+10. [Subsetting 2D Arrays](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#10-subsetting-2d-arrays)
+11. [Slicing 2D Arrays — Rows and Columns](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#11-slicing-2d-arrays--rows-and-columns)
+12. [Element-wise Arithmetic on 2D Arrays](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#12-element-wise-arithmetic-on-2d-arrays)
+13. [NumPy Basic Statistics](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#13-numpy-basic-statistics)
+14. [Mean vs Median — When Each Matters](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#14-mean-vs-median--when-each-matters)
+15. [Practice Questions](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#15-practice-questions)
+16. [Chapter Summary Table](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-04%20(NumPy)/README.md#16-chapter-summary-table)
 
 ---
 
