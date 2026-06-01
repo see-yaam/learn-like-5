@@ -1,5 +1,3 @@
----
-
 # **1. Python Basic**
 
 ## ⚙️ Setup — Python + VS Code Install & Run
@@ -32,6 +30,18 @@ python hello.py
 
 ---
 
+## 📌 Table of Contents
+
+1. What is Python and Why Does It Exist?
+2. Two Ways to Run Python
+3. Python as a Calculator
+4. Variables — Storing Values with Names
+5. Data Types — int, float, str, bool
+6. Operations with Different Types
+7. Practice Questions
+8. Chapter Summary Table
+
+---
 ## 📌 Table of Contents
 
 1. What is Python and Why Does It Exist?
