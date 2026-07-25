@@ -7,7 +7,7 @@
 
 ## 🔗 Main Repository
 
-**[→ Python A to Z]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/see-yaam/Python-A-to-Z))**
+**[Python A to Z](https://github.com/see-yaam/Python-A-to-Z)**
 
 ---
 
