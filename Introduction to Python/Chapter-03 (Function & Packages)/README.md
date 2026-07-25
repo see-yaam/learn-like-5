@@ -1,22 +1,22 @@
 ---
-# **3. Function & Packages**
+# **Chapter-03 (Function & Packages)**
 
 ## Table of Contents
 
-1. What is a Function?
-2. Built-in Functions You Already Know
-3. Arguments — How You Talk to a Function
-4. Optional Arguments — Flexible Inputs
-5. How to Find and Learn Functions
-6. What are Methods?
-7. String Methods
-8. List Methods
-9. Methods That Modify vs. Methods That Return
-10. What are Packages?
-11. Installing a Package
-12. Importing a Package — Three Ways
-13. Practice Questions
-14. Chapter Summary Table
+1. [What is a Function?](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#1-what-is-a-function)
+2. [Built-in Functions You Already Know](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#2-built-in-functions-you-already-know)
+3. [Arguments — How You Talk to a Function](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#3-arguments--how-you-talk-to-a-function)
+4. [Optional Arguments — Flexible Inputs](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#4-optional-arguments--flexible-inputs)
+5. [How to Find and Learn Functions](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#5-how-to-find-and-learn-functions)
+6. [What are Methods?](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#6-what-are-methods)
+7. [String Methods](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#7-string-methods)
+8. [List Methods](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#8-list-methods)
+9. [Methods That Modify vs. Methods That Return](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#9-methods-that-modify-vs-methods-that-return)
+10. [What are Packages?](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#10-what-are-packages)
+11. [Installing a Package](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#11-installing-a-package)
+12. [Importing a Package — Three Ways](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#12-importing-a-package--three-ways)
+13. [Practice Questions](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#13-practice-questions)
+14. [Chapter Summary Table](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-03%20(Function%20%26%20Packages)#14-chapter-summary-table)
 
 ---
 

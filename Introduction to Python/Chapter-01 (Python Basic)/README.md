@@ -1,4 +1,4 @@
-# **1. Python Basic**
+# **Chapter-01 (Python Basic)**
 
 ## ⚙️ Setup — Python + VS Code Install & Run
 
@@ -32,14 +32,14 @@ python hello.py
 
 ## 📌 Table of Contents
 
-1. What is Python and Why Does It Exist?
-2. Two Ways to Run Python
-3. Python as a Calculator
-4. Variables — Storing Values with Names
-5. Data Types — int, float, str, bool
-6. Operations with Different Types
-7. Practice Questions
-8. Chapter Summary Table
+1. [What is Python and Why Does It Exist?](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#1-what-is-python-and-why-does-it-exist)
+2. [Two Ways to Run Python](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#2-two-ways-to-run-python)
+3. [Python as a Calculator](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#3-python-as-a-calculator)
+4. [Variables — Storing Values with Names](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#4-variables--storing-values-with-names)
+5. [Data Types — int, float, str, bool](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#5-data-types--int-float-str-bool)
+6. [Operations with Different Types](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#6-operations-with-different-types)
+7. [Practice Questions](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#7-practice-questions)
+8. [Chapter Summary Table](https://github.com/see-yaam/learn-like-5/tree/main/Introduction%20to%20Python/Chapter-01%20(Python%20Basic)#8-chapter-summary-table)
 
 ---
 

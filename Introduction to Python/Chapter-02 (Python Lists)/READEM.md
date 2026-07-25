@@ -1,23 +1,23 @@
 ---
 
-# **2. Python Lists**
+# **Chapter-02 (Python Lists)**
 
 ## Table of Contents
 
-1. Why Lists Exist
-2. Creating a List
-3. Lists with Mixed Types
-4. List of Lists (Nested Lists)
-5. Subsetting — Accessing Elements by Index
-6. Negative Indexing
-7. Slicing — Selecting Multiple Elements
-8. Subsetting a List of Lists
-9. Changing List Elements
-10. Adding Elements to a List
-11. Removing Elements from a List
-12. The Reference Trap — Copying Lists Correctly
-13. Practice Questions
-14. Chapter Summary Table
+1. [Why Lists Exist](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#1-why-lists-exist)
+2. [Creating a List](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#2-creating-a-list)
+3. [Lists with Mixed Types](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#3-lists-with-mixed-types)
+4. [List of Lists (Nested Lists)](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#4-list-of-lists-nested-lists)
+5. [Subsetting — Accessing Elements by Index](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#5-subsetting--accessing-elements-by-index)
+6. [Negative Indexing](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#6-negative-indexing)
+7. [Slicing — Selecting Multiple Elements](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#7-slicing--selecting-multiple-elements)
+8. [Subsetting a List of Lists](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#8-subsetting-a-list-of-lists)
+9. [Changing List Elements](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#9-changing-list-elements)
+10. [Adding Elements to a List](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#10-adding-elements-to-a-list)
+11. [Removing Elements from a List](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#11-removing-elements-from-a-list)
+12. [The Reference Trap — Copying Lists Correctly](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#12-the-reference-trap--copying-lists-correctly)
+13. [Practice Questions](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#13-practice-questions)
+14. [Chapter Summary Table](https://github.com/see-yaam/learn-like-5/blob/main/Introduction%20to%20Python/Chapter-02%20(Python%20Lists)/READEM.md#14-chapter-summary-table)
 
 ---
 
